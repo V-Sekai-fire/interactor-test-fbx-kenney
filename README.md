@@ -12,4 +12,4 @@ There is nothing to build; the files are read as they are.
 
 ## Licence
 
-Each set's licence is in its JSON record. The repository adds none of its own.
+CC0 1.0. See [LICENSE](LICENSE). Each set's licence is in its JSON record.
